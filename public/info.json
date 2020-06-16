@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "city": "Kolkata",
+        "color": "Yellow",
+        "status": "No"
+    },
+
+    {
+        "id": 2,
+        "city": "Delhi",
+        "color": "Yellow",
+        "status": "No"
+    },
+    
+    {
+        "id": 3,
+        "city": "Bangalore",
+        "color": "Yellow",
+        "status": "No"
+    },
+
+    {
+        "id": 4,
+        "city": "Chennai",
+        "color": "Yellow",
+        "status": "No"
+    },
+
+    {
+        "id": 5,
+        "city": "Ranchi",
+        "color": "Yellow",
+        "status": "Yes"
+    }
+]
